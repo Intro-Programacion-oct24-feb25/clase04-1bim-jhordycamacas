@@ -18,5 +18,7 @@ public class Ejemplo04 {
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
+        // el println da un salto de linea y espera la siguiente impresión
+        // el print solo , imprime lo pedido en una sola linea horizontal
     }
 }
