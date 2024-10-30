@@ -20,6 +20,7 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        // para darle un nuevo valor a la variable no es necesario volver a poner el string
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
     }
